@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.shell.windows": "C:\\msys64\\usr\\bin\\bash.exe",
+		"terminal.integrated.shellArgs.windows": [
+			"--login"
+		],
+		"terminal.integrated.env.windows": {
+			"CHERE_INVOKING": "1",
+			"MSYSTEM": "MINGW32"
+		},
+		"terminal.integrated.automationShell.windows": null,
+		"terminal.explorerKind": "external",
+		"files.associations": {
+			"*.ipp": "cpp",
+			"array": "cpp",
+			"bitset": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"ranges": "cpp",
+			"span": "cpp",
+			"regex": "cpp",
+			"*.inc": "cpp",
+			"atomic": "cpp",
+			"*.tcc": "cpp",
+			"valarray": "cpp"
+		}
+	}
+}
