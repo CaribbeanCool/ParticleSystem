@@ -1,4 +1,4 @@
-# PA1: Particle System
+# Particle System
 This project is based on the OpenFrameworks Particle example.
  This repository is part of a Programming Assignment for the Advanced Programming Course.
  The purpose of this project is to help the student create practical programming skills by implementing
